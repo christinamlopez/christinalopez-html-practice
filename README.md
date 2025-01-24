@@ -1,4 +1,4 @@
-# Christina Lopez's git practice
+# Christina Lopez's html practice
 
 By Christina Lopez, Intro Coding for Journalists class
 
